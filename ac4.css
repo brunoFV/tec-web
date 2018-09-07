@@ -1,0 +1,77 @@
+﻿header h1 {
+    background-color: lightgray;
+}
+
+body {
+    background-color:lightgray;
+}
+
+.nome{
+    background-color:lightblue;
+    font-weight: bold;
+    max-width: 40ch;
+}
+.nome:focus {
+    background-color: white;
+}
+
+.endereco {
+    background-color:lightblue;
+    font-weight: bold;
+    max-width: 50ch;
+}
+.endereco:focus {
+    background-color: white;
+}
+
+.cidade{
+    background-color:lightblue;
+    font-weight: bold;
+    max-width: 20ch;    
+}
+
+.cidade:focus {
+    background-color: white;
+}
+
+.uf{
+    background-color:lightblue;
+    font-weight: bold;
+    max-width: 3ch;
+
+}
+
+.uf:focus {
+    background-color: white;
+}
+.cpf{
+    background-color:lightblue;
+    font-weight: bold;
+    max-width: 18ch;    
+}
+
+.cpf:focus {
+    background-color: white;
+}
+.email{
+    background-color:lightblue;
+    font-weight: bold;
+    max-width: 50ch;    
+}
+.email:focus {
+    background-color: white;
+}
+
+.titulo {
+    background-color: lightblue;
+    width: 100%;
+    margin: 10px;
+    height: 90px;
+}
+
+.button {
+    background-color: lightblue;
+    color: white
+    margin: 10px;
+    height: 20px;
+}
